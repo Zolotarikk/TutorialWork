@@ -1,4 +1,4 @@
-function NumberOf(a){
+/*function NumberOf(a){
 var number = 0;
     for(let i = 0;i<=a.length;i++){
         if(a[i]=='a'){
@@ -8,4 +8,5 @@ var number = 0;
 }
 var str = prompt('Enter your line');
 let a = NumberOf(str);
-console.log(a);
+console.log(a);*/
+
